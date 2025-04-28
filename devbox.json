@@ -1,0 +1,6 @@
+{
+  "packages": [
+    "git+ssh://git@github.com-me/gjhenrique/flakes.git#jq",
+    "git+ssh://git@github.com-me/gjhenrique/flakes.git#curl",
+  ]
+}
